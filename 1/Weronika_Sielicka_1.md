@@ -39,9 +39,9 @@ You are taken to **YouTube Studio**.
 
 ![Files for upload](/1/3.png)
 
-After you upload a video, it is processed in the **My video** pop-up window.
+After you upload a video, it is processed in the **My Video** pop-up window.
 
-4. [Optional] In **My viedo** > **Details**, provide additional details about your video:
+4. [Optional] In **My Video** > **Details**, provide additional details about your video:
 
    * Title - the default title of your video is the name of the uploaded file. You can change it here.
    * [Description](https://creatoracademy.youtube.com/page/lesson/descriptions) - you can provide a short, but informative description to tell viewers what the video is about. The maximum number of characters is 5000.
@@ -50,11 +50,11 @@ After you upload a video, it is processed in the **My video** pop-up window.
 
 ![Optional basic details](/1/4.png)
 
-5. In **My video** > **Details** you are required to specify if the video is [appropriate for kids](https://support.google.com/youtube/answer/9528076).
+5. In **My Video** > **Details** you are required to specify if the video is [appropriate for kids](https://support.google.com/youtube/answer/9528076).
 
 ![Made for Kids](/1/5.png)   
 
-6. [Optional] To restrict access to a video not appropriate for kids to adult audiences, click **Age Restriction (Advanced)** and select **Yes, restrict my video to viewers over 18**.
+6. [Optional] To restrict access to a video inappropriate for kids to adult audiences, click **Age Restriction (Advanced)** and select **Yes, restrict my video to viewers over 18**.
 
 ![Restrict Access](/1/6.png)   
 
@@ -62,7 +62,7 @@ After you upload a video, it is processed in the **My video** pop-up window.
 
 8. Click **NEXT**.
 
-9. [Optional] In **My video** > **Video elements**, add:
+9. [Optional] In **My Video** > **Video elements**, add:
 
    * [end screen](https://creatoracademy.youtube.com/page/lesson/cards#strategies-zippy-link-1) to promote related content at the end of your video.
    * [cards](https://creatoracademy.youtube.com/page/lesson/cards#strategies-zippy-link-2) to promote related content during your video.
@@ -71,14 +71,14 @@ After you upload a video, it is processed in the **My video** pop-up window.
 
 10. Click **NEXT**.
 
-11. [Optional] In **My video** > **Visibility**, set who can view your video by setting it as:
+11. [Optional] In **My Video** > **Visibility**, set who can view your video by setting it as:
    * private, so only you and users selected by you can watch the video.
    * unlisted, so only people with the link to the video can watch it.
    * public, so anyone can watch the video. You can [set an instant premiere](https://support.google.com/youtube/answer/9080341) for a public video, making it instantly visible to anyone.
 
 ![Visibility](/1/8.png)   
 
-12. [Optional] In **My video** > **Visibility**, schedule a premiere date for the video to make it public on that day:
+12. [Optional] In **My Video** > **Visibility**, schedule a premiere date for the video to make it public on that day:
 
    * Select a date, hour, and time zone for the premiere.
    * Select **Set as Premiere** to create a countdown page for the video. Otherwise, the video will be private till the premiere.
