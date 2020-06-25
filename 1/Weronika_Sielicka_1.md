@@ -72,9 +72,9 @@ After you upload a video, it is processed in the **My Video** pop-up window.
 10. Click **NEXT**.
 
 11. [Optional] In **My Video** > **Visibility**, set who can view your video by setting it as:
-   * private, so only you and users selected by you can watch the video.
-   * unlisted, so only people with the link to the video can watch it.
-   * public, so anyone can watch the video. You can [set an instant premiere](https://support.google.com/youtube/answer/9080341) for a public video, making it instantly visible to anyone.
+   * **Private**, so only you and users selected by you can watch the video.
+   * **Unlisted**, so only people with the link to the video can watch it.
+   * **Public**, so anyone can watch the video. You can [set an instant premiere](https://support.google.com/youtube/answer/9080341) for a public video, making it instantly visible to anyone.
 
 ![Visibility](/1/8.png)   
 
