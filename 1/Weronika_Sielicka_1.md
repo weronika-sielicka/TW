@@ -78,12 +78,12 @@ After you upload a video, it is processed in the **My video** pop-up window.
 
 11. [Optional] In **My video** > **Visibility**, schedule a premiere date for the video to make it public on that day:
 
-   * Select a date, hour, and timezone for the premiere.
+   * Select a date, hour, and time zone for the premiere.
    * Select **Set as Premiere** to create a countdown page for the video. Otherwise, the video will be private till the premiere.
 
 ![Schedule premiere](/1/9.png)  
 
-12. When the video is finished processing, click **Next** or **Schedule**, Depending on the selected visibility setting.
+12. Click **Next** or **Schedule**, Depending on the selected visibility setting.
 
 **Result**
 
