@@ -60,7 +60,7 @@ After you upload a video, it is processed in the **My video** pop-up window.
 
 7. [Optional] Click **More options** to configure paid promotion, tags, subtitles, and other [advanced setting](https://support.google.com/youtube/answer/57404).
 
-8. Click **Next**.
+8. Click **NEXT**.
 
 9. [Optional] In **My video** > **Video elements**, add:
 
@@ -69,24 +69,25 @@ After you upload a video, it is processed in the **My video** pop-up window.
 
 ![Video elements](/1/7.png)   
 
-10. [Optional] In **My video** > **Visibility**, set who can view your video by setting it as:
+10. Click **NEXT**.
+
+11. [Optional] In **My video** > **Visibility**, set who can view your video by setting it as:
    * private, so only you and users selected by you can watch the video.
    * unlisted, so only people with the link to the video can watch it.
    * public, so anyone can watch the video. You can [set an instant premiere](https://support.google.com/youtube/answer/9080341) for a public video, making it instantly visible to anyone.
 
 ![Visibility](/1/8.png)   
 
-11. [Optional] In **My video** > **Visibility**, schedule a premiere date for the video to make it public on that day:
+12. [Optional] In **My video** > **Visibility**, schedule a premiere date for the video to make it public on that day:
 
    * Select a date, hour, and time zone for the premiere.
    * Select **Set as Premiere** to create a countdown page for the video. Otherwise, the video will be private till the premiere.
 
 ![Schedule premiere](/1/9.png)  
 
-12. Click **Next** or **Schedule**, Depending on the selected visibility setting.
+13. Click **PUBLISH** or **SCHEDULE**, Depending on the selected visibility setting.
 
 **Result**
-
 The video is uploaded to your channel.
 
 ![Successful upload](/1/10.png)   
